@@ -1,3 +1,14 @@
+<style>
+        .container {
+            display: flex;
+            justify-content: space-around; /* Adjusts the space between the elements */
+            align-items: center;
+            flex-wrap: wrap; /* Prevents overflow by wrapping items if needed */
+        }
+        .container a {
+            margin: 10px;
+        }
+    </style>
 <h1 align="center">Hi 👋, I'm Shubham Bhalerao</h1>
 <h3 align="center">Coding for Impact: Let's Build Something Awesome Together.</h3>
 
