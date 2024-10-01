@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I can speak a bit of Japanese**
 
+- [![Shbhalerao's GitHub | Languages Over Time](https://stats.quira.sh/Shbhalerao/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shbhalerao)
+- [![Shbhalerao's GitHub | Topics Over Time](https://stats.quira.sh/Shbhalerao/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shbhalerao)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhadumtss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhadumtss" height="30" width="40" /></a>
