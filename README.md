@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shbhalerao&label=Profile%20views&color=0e75b6&style=flat" alt="shbhalerao" /> </p>
 
-- 🔭 I’m currently working on [Vitality Vault](https://github.com/Shbhalerao/vitality_vault)
+- 🔭 I’m currently working on [A fitness app to help fitness centers and Trainers to collaborate with clients](https://github.com/Shbhalerao/vitality_vault)
 
 - 🌱 I’m currently learning **Python, AI & ML**
 
 - 📝 I regularly write articles on [https://medium.com/@sbshubham09](https://medium.com/@sbshubham09)
 
-- 💬 Ask me about **Java, Microservices,**
+- 💬 Ask me about **Java, Microservices and anything Tech.**
 
 - 📫 How to reach me **shubham-bhalerao@outlook.com**
 
@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhadumtss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhadumtss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-bhalerao-89ba93146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-bhalerao-89ba93146/" height="30" width="40" /></a>
-<a href="https://instagram.com/@shubhadumtss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@shubhadumtss" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-bhalerao-89ba93146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-bhalerao-89ba93146" height="30" width="40" /></a>
+<a href="https://instagram.com/shubhadumtss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhadumtss" height="30" width="40" /></a>
 <a href="https://medium.com/@sbshubham09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sbshubham09" height="30" width="40" /></a>
 </p>
 
