@@ -15,7 +15,14 @@
 
 - ⚡ Fun fact **I can speak a bit of Japanese**
 
-[![Shbhalerao's GitHub | Languages Over Time](https://stats.quira.sh/Shbhalerao/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shbhalerao) [![Shbhalerao's GitHub | Topics Over Time](https://stats.quira.sh/Shbhalerao/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shbhalerao)
+ <div class="container">
+        <a href="https://quira.sh?utm_source=widgets&utm_campaign=Shbhalerao">
+            <img src="https://stats.quira.sh/Shbhalerao/languages-over-time?theme=dark" alt="Languages Over Time">
+        </a>
+        <a href="https://quira.sh?utm_source=widgets&utm_campaign=Shbhalerao">
+            <img src="https://stats.quira.sh/Shbhalerao/topics-over-time?theme=dark" alt="Topics Over Time">
+        </a>
+    </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
