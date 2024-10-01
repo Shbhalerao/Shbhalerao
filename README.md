@@ -1,14 +1,4 @@
-<style>
-        .container {
-            display: flex;
-            justify-content: space-around; /* Adjusts the space between the elements */
-            align-items: center;
-            flex-wrap: wrap; /* Prevents overflow by wrapping items if needed */
-        }
-        .container a {
-            margin: 10px;
-        }
-    </style>
+
 <h1 align="center">Hi 👋, I'm Shubham Bhalerao</h1>
 <h3 align="center">Coding for Impact: Let's Build Something Awesome Together.</h3>
 
@@ -26,14 +16,9 @@
 
 - ⚡ Fun fact **I can speak a bit of Japanese**
 
- <div class="container">
-        <a href="https://quira.sh?utm_source=widgets&utm_campaign=Shbhalerao">
-            <img src="https://stats.quira.sh/Shbhalerao/languages-over-time?theme=dark" alt="Languages Over Time">
-        </a>
-        <a href="https://quira.sh?utm_source=widgets&utm_campaign=Shbhalerao">
-            <img src="https://stats.quira.sh/Shbhalerao/topics-over-time?theme=dark" alt="Topics Over Time">
-        </a>
-    </div>
+| [![Shbhalerao's GitHub | Languages Over Time](https://stats.quira.sh/Shbhalerao/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shbhalerao) | [![Shbhalerao's GitHub | Topics Over Time](https://stats.quira.sh/Shbhalerao/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shbhalerao) |
+|:----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
